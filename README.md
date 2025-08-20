@@ -8,12 +8,9 @@ A simple personal page project using HTML, demonstrating the basics of creating 
 2. Open the `index.html` file in any web browser.
 3. Enjoy viewing the personal webpage.
 4. Or you can open it as a website.
-<<<<<<< HEAD
-       https://amrtarek20.github.io/CV-With-HTML/
-=======
+
       https://amrtarek20.github.io/CV-With-HTML/
 
->>>>>>> 7625f5e3fcbcc8329d7063111ee4193c5c3a124b
 ## Additional Information:
 
 - Project Author: Amr
